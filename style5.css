@@ -1,0 +1,29 @@
+.h1{
+    background-color: antiquewhite;
+}
+div{
+    text-align: center;
+    height: 70px;
+    background-color: rgb(208, 255, 0);
+   border-bottom-left-radius: 100px;
+   border-top-right-radius: 100px;
+   margin-top: 20px;
+   padding: 10px;
+   margin-left: 10px;
+   
+}
+.red{
+background-color: red;
+display: inline-block;
+  border-radius: 100px;
+}
+.green{
+background-color: green;
+display: inline;
+  border-radius: 100px;
+}
+.blue{
+    background-color: blue;
+    display: inline-block;
+      border-radius:100px;
+}

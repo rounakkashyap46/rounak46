@@ -1,0 +1,31 @@
+
+.p1{
+height: px;
+width: 20px;
+position: fixed;
+background-color:rgb(255, 174, 0);
+top: 50px;
+left: 0px;
+text-align: center;
+font-weight: bolo;
+z-index: 150px;
+border-radius: 20px;
+font-size: 20px;
+color:white;
+}
+.p2{
+height: px;
+width: 20px;
+position: absolute;
+background-color:rgb(255, 174, 0);
+top: 10px;
+left: 0px;
+text-align: center;
+font-weight: bolo;
+z-index: 150px;
+border-radius: 20px;
+font-size: 20px;
+color:white;
+}
+
+

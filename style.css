@@ -1,19 +1,9 @@
-h1{
-    color: orange;
-    background-color: black;
+div{
+    background-color: hotpink;
+     margin: 20px;
+     color: red;
 }
-.red-heading{
-    color: red;
-    background-color: yellow;
+body{
+    background-color: blue;
 }
-#main{
- color: aqua;
- background-color: blueviolet;
-}
-* {
-    text-align: center;
-}
-h2[draggable]
-{
- color: red;
-}
+
